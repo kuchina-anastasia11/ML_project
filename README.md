@@ -3,4 +3,4 @@
 
 Ссылка на данные: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 
-Выбранная метрика: 
+Ссылка на презентацию: https://docs.google.com/presentation/d/1qRUYoQoLMFo_wIliti-Fp6iuv_NUlB0yFwXLMIUabUE/edit?hl=ru#slide=id.g2e2fae42109_0_15
